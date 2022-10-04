@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    font-size: 22px;
+    font-weight: 1000px;
+}
+
+br {
+    background-color: black;
+}
+
+h2.last {
+    text-align: center;
+}
